@@ -3,7 +3,7 @@ Privacy Policy for FlexDose - A local-first medication tracking app that priorit
 
  # Privacy Policy for FlexDose
 
-  **Last Updated: January 2025**
+  **Last Updated: November 2025**
 
   ## Overview
 
