@@ -104,7 +104,7 @@ Privacy Policy for FlexDose - A local-first medication tracking app that priorit
 
   - **Developer**: Rik Leushuis
   - **Email**: dev.leusware@gmail.com
-  - **GitHub**: https://github.com/RLeushuis/FlexDose-Privacy
+  - **GitHub**: https://github.com/RLeushuis/FlexDose
 
   ## Legal Compliance
 
